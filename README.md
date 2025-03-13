@@ -1,7 +1,7 @@
 # 2-glav
 # 🚀 Добро пожаловать в проект!
 
-[![GitHub Stars](https://img.shields.io/github/stars/[aivaz2007aizilagmail]/[название_репозитория]?style=for-the-badge&logo=github&color=yellow)](https://github.com/[Ваш_логин]/[название_репозитория]/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/[aivaz2007aizilagmail]/[https://github.com/aivaz2007aizilagmail]?style=for-the-badge&logo=github&color=yellow)](https://github.com/[Ваш_логин]/[название_репозитория]/stargazers)
 [![GitHub Watchers](https://img.shields.io/github/watchers/[Ваш_логин]/[название_репозитория]?style=for-the-badge&logo=github&color=blue)](https://github.com/[Ваш_логин]/[название_репозитория]/subscriptions)
 
 > ### ❤️ Поддержите проект за 2 клика!
