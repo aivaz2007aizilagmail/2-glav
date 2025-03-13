@@ -1,10 +1,10 @@
-# 1-glav
-# 🚀 Добро пожаловать в проект!
+# 2-glav
+# 🚀 Добро пожаловать в 2 главу!
 
 [![GitHub Stars](https://img.shields.io/github/stars/aivaz2007aizilagmail/2-glav?style=for-the-badge&logo=github&color=yellow)](https://github.com/aivaz2007aizilagmail/2-glav/stargazers)
 [![GitHub Watchers](https://img.shields.io/github/watchers/aivaz2007aizilagmail/2-glav?style=for-the-badge&logo=github&color=blue)](https://github.com/aivaz2007aizilagmail/2-glav/subscriptions)
 
-> ### ❤️ Поддержите проект за 2 клика!
+> ### ❤️ Поддержите работу за 2 клика!
 > **Понравился код?** Поставьте ⭐ на GitHub и подпишитесь на обновления — это лучшая благодарность для разработчика!
 
 ---
